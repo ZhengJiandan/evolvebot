@@ -10,6 +10,9 @@
     <a href="./COMMUNICATION.md"><img src="https://img.shields.io/badge/WeChat-Group-C5EAB4?style=flat&logo=wechat&logoColor=white" alt="WeChat"></a>
     <a href="https://discord.gg/MnCvHqpUGB"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"></a>
   </p>
+  <p>
+    <a href="./README.md">English</a> | <a href="./README_CN.md">中文</a>
+  </p>
 </div>
 
 ## 项目概览
@@ -52,16 +55,16 @@
 ## 📢 近况
 
 - **2026-02-14** 🔌 evolvebot 现已支持 MCP！详情见 [MCP 部分](#mcp-model-context-protocol)。
-- **2026-02-13** 🎉 发布 v0.1.3.post7 — 包含安全加固与多项改进，建议所有用户升级至最新版本。详见 [发布说明](https://github.com/HKUDS/evolvebot/releases/tag/v0.1.3.post7)。
-- **2026-02-12** 🧠 重新设计记忆系统 — 代码更少、更可靠。欢迎参与 [讨论](https://github.com/HKUDS/evolvebot/discussions/566)！
+- **2026-02-13** 🎉 发布 v0.1.3.post7 — 包含安全加固与多项改进，建议所有用户升级至最新版本。详见 [发布说明](https://github.com/ZhengJiandan/evolvebot/releases/tag/v0.1.3.post7)。
+- **2026-02-12** 🧠 重新设计记忆系统 — 代码更少、更可靠。欢迎参与 [讨论](https://github.com/ZhengJiandan/evolvebot/discussions/566)！
 - **2026-02-11** ✨ 优化 CLI 体验并新增 MiniMax 支持！
-- **2026-02-10** 🎉 发布 v0.1.3.post6！查看更新 [说明](https://github.com/HKUDS/evolvebot/releases/tag/v0.1.3.post6) 与 [路线图](https://github.com/HKUDS/evolvebot/discussions/431)。
+- **2026-02-10** 🎉 发布 v0.1.3.post6！查看更新 [说明](https://github.com/ZhengJiandan/evolvebot/releases/tag/v0.1.3.post6) 与 [路线图](https://github.com/ZhengJiandan/evolvebot/discussions/431)。
 - **2026-02-09** 💬 新增 Slack、Email 与 QQ 支持 — evolvebot 现已覆盖多种聊天平台！
 - **2026-02-08** 🔧 Provider 重构—新增 LLM Provider 仅需 2 步！详见 [这里](#providers)。
-- **2026-02-07** 🚀 发布 v0.1.3.post5，支持 Qwen 并带来多项改进！详见 [这里](https://github.com/HKUDS/evolvebot/releases/tag/v0.1.3.post5)。
+- **2026-02-07** 🚀 发布 v0.1.3.post5，支持 Qwen 并带来多项改进！详见 [这里](https://github.com/ZhengJiandan/evolvebot/releases/tag/v0.1.3.post5)。
 - **2026-02-06** ✨ 新增 Moonshot/Kimi Provider、Discord 集成，并加强安全加固！
 - **2026-02-05** ✨ 新增飞书渠道、DeepSeek Provider，并增强定时任务支持！
-- **2026-02-04** 🚀 发布 v0.1.3.post4，支持多 Provider 与 Docker！详见更新 [说明](https://github.com/HKUDS/evolvebot/releases/tag/v0.1.3.post4) 与 [路线图](https://github.com/HKUDS/evolvebot/discussions/431)。
+- **2026-02-04** 🚀 发布 v0.1.3.post4，支持多 Provider 与 Docker！详见更新 [说明](https://github.com/ZhengJiandan/evolvebot/releases/tag/v0.1.3.post4) 与 [路线图](https://github.com/ZhengJiandan/evolvebot/discussions/431)。
 - **2026-02-03** ⚡ 集成 vLLM，支持本地 LLM，并改进自然语言任务调度！
 - **2026-02-02** 🎉 evolvebot 正式发布！欢迎体验 🐈 evolvebot！
 
@@ -107,7 +110,7 @@
 **从源码安装**（最新特性，推荐用于开发）
 
 ```bash
-git clone https://github.com/HKUDS/evolvebot.git
+git clone https://github.com/ZhengJiandan/evolvebot.git
 cd evolvebot
 pip install -e .
 ```
@@ -917,7 +920,7 @@ evolvebot/
 
 欢迎 PR！代码库刻意保持小而清晰，便于阅读与协作。🤗
 
-**路线图** — 选一个方向并 [提交 PR](https://github.com/HKUDS/evolvebot/pulls)！
+**路线图** — 选一个方向并 [提交 PR](https://github.com/ZhengJiandan/evolvebot/pulls)！
 
 - [ ] **多模态** — 图像、语音、视频
 - [ ] **长期记忆** — 永不遗忘重要上下文
@@ -927,26 +930,26 @@ evolvebot/
 
 ### 贡献者
 
-<a href="https://github.com/HKUDS/evolvebot/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=HKUDS/evolvebot&max=100&columns=12&updated=20260210" alt="Contributors" />
+<a href="https://github.com/ZhengJiandan/evolvebot/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ZhengJiandan/evolvebot&max=100&columns=12&updated=20260210" alt="Contributors" />
 </a>
 
 
 ## ⭐ Star History
 
 <div align="center">
-  <a href="https://star-history.com/#HKUDS/evolvebot&Date">
+  <a href="https://star-history.com/#ZhengJiandan/evolvebot&Date">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=HKUDS/evolvebot&type=Date&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=HKUDS/evolvebot&type=Date" />
-      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=HKUDS/evolvebot&type=Date" style="border-radius: 15px; box-shadow: 0 0 30px rgba(0, 217, 255, 0.3);" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ZhengJiandan/evolvebot&type=Date&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ZhengJiandan/evolvebot&type=Date" />
+      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ZhengJiandan/evolvebot&type=Date" style="border-radius: 15px; box-shadow: 0 0 30px rgba(0, 217, 255, 0.3);" />
     </picture>
   </a>
 </div>
 
 <p align="center">
   <em> 感谢访问 ✨ evolvebot！</em><br><br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=HKUDS.evolvebot&style=for-the-badge&color=00d4ff" alt="Views">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ZhengJiandan.evolvebot&style=for-the-badge&color=00d4ff" alt="Views">
 </p>
 
 

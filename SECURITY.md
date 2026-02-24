@@ -256,8 +256,8 @@ Before deploying evolvebot:
 **Last Updated**: 2026-02-03
 
 For the latest security updates and announcements, check:
-- GitHub Security Advisories: https://github.com/HKUDS/evolvebot/security/advisories
-- Release Notes: https://github.com/HKUDS/evolvebot/releases
+- GitHub Security Advisories: https://github.com/ZhengJiandan/evolvebot/security/advisories
+- Release Notes: https://github.com/ZhengJiandan/evolvebot/releases
 
 ## License
 

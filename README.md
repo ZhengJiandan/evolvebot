@@ -1,3 +1,5 @@
+[English](./README.md) | [中文](./README_CN.md)
+
 ## Overview
 
 🐈 **evolvebot** is an **ultra-lightweight, open-source** personal AI assistant built for clarity, speed, and extensibility.
@@ -49,7 +51,7 @@ This project is based on the open-source **nanobot** project and extends it with
 **Install from source** (latest features, recommended for development)
 
 ```bash
-git clone https://github.com/HKUDS/evolvebot.git
+git clone https://github.com/ZhengJiandan/evolvebot.git
 cd evolvebot
 pip install -e .
 ```
@@ -867,7 +869,7 @@ evolvebot/
 
 PRs welcome! The codebase is intentionally small and readable. 🤗
 
-**Roadmap** — Pick an item and [open a PR](https://github.com/HKUDS/evolvebot/pulls)!
+**Roadmap** — Pick an item and [open a PR](https://github.com/ZhengJiandan/evolvebot/pulls)!
 
 - [ ] **Multi-modal** — See and hear (images, voice, video)
 - [ ] **Long-term memory** — Never forget important context
@@ -877,26 +879,26 @@ PRs welcome! The codebase is intentionally small and readable. 🤗
 
 ### Contributors
 
-<a href="https://github.com/HKUDS/evolvebot/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=HKUDS/evolvebot&max=100&columns=12&updated=20260210" alt="Contributors" />
+<a href="https://github.com/ZhengJiandan/evolvebot/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ZhengJiandan/evolvebot&max=100&columns=12&updated=20260210" alt="Contributors" />
 </a>
 
 
 ## ⭐ Star History
 
 <div align="center">
-  <a href="https://star-history.com/#HKUDS/evolvebot&Date">
+  <a href="https://star-history.com/#ZhengJiandan/evolvebot&Date">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=HKUDS/evolvebot&type=Date&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=HKUDS/evolvebot&type=Date" />
-      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=HKUDS/evolvebot&type=Date" style="border-radius: 15px; box-shadow: 0 0 30px rgba(0, 217, 255, 0.3);" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ZhengJiandan/evolvebot&type=Date&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ZhengJiandan/evolvebot&type=Date" />
+      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ZhengJiandan/evolvebot&type=Date" style="border-radius: 15px; box-shadow: 0 0 30px rgba(0, 217, 255, 0.3);" />
     </picture>
   </a>
 </div>
 
 <p align="center">
   <em> Thanks for visiting ✨ evolvebot!</em><br><br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=HKUDS.evolvebot&style=for-the-badge&color=00d4ff" alt="Views">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ZhengJiandan.evolvebot&style=for-the-badge&color=00d4ff" alt="Views">
 </p>
 
 
