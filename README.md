@@ -1,17 +1,3 @@
-<div align="center">
-  <img src="evolvebot_logo.png" alt="evolvebot" width="500">
-  <h1>evolvebot: Ultra-Lightweight Personal AI Assistant</h1>
-  <p>
-    <a href="https://pypi.org/project/evolvebot-ai/"><img src="https://img.shields.io/pypi/v/evolvebot-ai" alt="PyPI"></a>
-    <a href="https://pepy.tech/project/evolvebot-ai"><img src="https://static.pepy.tech/badge/evolvebot-ai" alt="Downloads"></a>
-    <img src="https://img.shields.io/badge/python-≥3.11-blue" alt="Python">
-    <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
-    <a href="./COMMUNICATION.md"><img src="https://img.shields.io/badge/Feishu-Group-E9DBFC?style=flat&logo=feishu&logoColor=white" alt="Feishu"></a>
-    <a href="./COMMUNICATION.md"><img src="https://img.shields.io/badge/WeChat-Group-C5EAB4?style=flat&logo=wechat&logoColor=white" alt="WeChat"></a>
-    <a href="https://discord.gg/MnCvHqpUGB"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"></a>
-  </p>
-</div>
-
 ## Overview
 
 🐈 **evolvebot** is an **ultra-lightweight, open-source** personal AI assistant built for clarity, speed, and extensibility.
@@ -49,22 +35,6 @@ This project is based on the open-source **nanobot** project and extends it with
 - Capability-based delegation and points-based incentives
 - Knowledge pack sharing and auto-apply workflows
 
-## 📢 News
-
-- **2026-02-14** 🔌 evolvebot now supports MCP! See [MCP section](#mcp-model-context-protocol) for details.
-- **2026-02-13** 🎉 Released v0.1.3.post7 — includes security hardening and multiple improvements. All users are recommended to upgrade to the latest version. See [release notes](https://github.com/HKUDS/evolvebot/releases/tag/v0.1.3.post7) for more details.
-- **2026-02-12** 🧠 Redesigned memory system — Less code, more reliable. Join the [discussion](https://github.com/HKUDS/evolvebot/discussions/566) about it!
-- **2026-02-11** ✨ Enhanced CLI experience and added MiniMax support!
-- **2026-02-10** 🎉 Released v0.1.3.post6 with improvements! Check the updates [notes](https://github.com/HKUDS/evolvebot/releases/tag/v0.1.3.post6) and our [roadmap](https://github.com/HKUDS/evolvebot/discussions/431).
-- **2026-02-09** 💬 Added Slack, Email, and QQ support — evolvebot now supports multiple chat platforms!
-- **2026-02-08** 🔧 Refactored Providers—adding a new LLM provider now takes just 2 simple steps! Check [here](#providers).
-- **2026-02-07** 🚀 Released v0.1.3.post5 with Qwen support & several key improvements! Check [here](https://github.com/HKUDS/evolvebot/releases/tag/v0.1.3.post5) for details.
-- **2026-02-06** ✨ Added Moonshot/Kimi provider, Discord integration, and enhanced security hardening!
-- **2026-02-05** ✨ Added Feishu channel, DeepSeek provider, and enhanced scheduled tasks support!
-- **2026-02-04** 🚀 Released v0.1.3.post4 with multi-provider & Docker support! Check [here](https://github.com/HKUDS/evolvebot/releases/tag/v0.1.3.post4) for details.
-- **2026-02-03** ⚡ Integrated vLLM for local LLM support and improved natural language task scheduling!
-- **2026-02-02** 🎉 evolvebot officially launched! Welcome to try 🐈 evolvebot!
-
 ## Key Advantages
 
 - **Ultra-lightweight**: Small core (~4k LOC) keeps maintenance and onboarding costs low.
@@ -73,34 +43,6 @@ This project is based on the open-source **nanobot** project and extends it with
 - **Easy to run**: One-command onboarding with sensible defaults.
 - **AI Universe network**: Opt-in collaboration that helps agents learn, evolve, and share knowledge packs.
 
-## 🏗️ Architecture
-
-<p align="center">
-  <img src="evolvebot_arch.png" alt="evolvebot architecture" width="800">
-</p>
-
-## ✨ Features
-
-<table align="center">
-  <tr align="center">
-    <th><p align="center">📈 24/7 Real-Time Market Analysis</p></th>
-    <th><p align="center">🚀 Full-Stack Software Engineer</p></th>
-    <th><p align="center">📅 Smart Daily Routine Manager</p></th>
-    <th><p align="center">📚 Personal Knowledge Assistant</p></th>
-  </tr>
-  <tr>
-    <td align="center"><p align="center"><img src="case/search.gif" width="180" height="400"></p></td>
-    <td align="center"><p align="center"><img src="case/code.gif" width="180" height="400"></p></td>
-    <td align="center"><p align="center"><img src="case/scedule.gif" width="180" height="400"></p></td>
-    <td align="center"><p align="center"><img src="case/memory.gif" width="180" height="400"></p></td>
-  </tr>
-  <tr>
-    <td align="center">Discovery • Insights • Trends</td>
-    <td align="center">Develop • Deploy • Scale</td>
-    <td align="center">Schedule • Automate • Organize</td>
-    <td align="center">Learn • Memory • Reasoning</td>
-  </tr>
-</table>
 
 ## 📦 Install
 
