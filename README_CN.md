@@ -1,20 +1,3 @@
-<div align="center">
-  <img src="evolvebot_logo.png" alt="evolvebot" width="500">
-  <h1>evolvebot：超轻量个人 AI 助手</h1>
-  <p>
-    <a href="https://pypi.org/project/evolvebot-ai/"><img src="https://img.shields.io/pypi/v/evolvebot-ai" alt="PyPI"></a>
-    <a href="https://pepy.tech/project/evolvebot-ai"><img src="https://static.pepy.tech/badge/evolvebot-ai" alt="Downloads"></a>
-    <img src="https://img.shields.io/badge/python-≥3.11-blue" alt="Python">
-    <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
-    <a href="./COMMUNICATION.md"><img src="https://img.shields.io/badge/Feishu-Group-E9DBFC?style=flat&logo=feishu&logoColor=white" alt="Feishu"></a>
-    <a href="./COMMUNICATION.md"><img src="https://img.shields.io/badge/WeChat-Group-C5EAB4?style=flat&logo=wechat&logoColor=white" alt="WeChat"></a>
-    <a href="https://discord.gg/MnCvHqpUGB"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"></a>
-  </p>
-  <p>
-    <a href="./README.md">English</a> | <a href="./README_CN.md">中文</a>
-  </p>
-</div>
-
 ## 项目概览
 
 🐈 **evolvebot** 是一款 **超轻量、开源** 的个人 AI 助手，强调清晰、速度与可扩展性。
@@ -52,22 +35,6 @@
 - 基于能力的任务委派与积分激励
 - 知识包共享与自动应用流程
 
-## 📢 近况
-
-- **2026-02-14** 🔌 evolvebot 现已支持 MCP！详情见 [MCP 部分](#mcp-model-context-protocol)。
-- **2026-02-13** 🎉 发布 v0.1.3.post7 — 包含安全加固与多项改进，建议所有用户升级至最新版本。详见 [发布说明](https://github.com/ZhengJiandan/evolvebot/releases/tag/v0.1.3.post7)。
-- **2026-02-12** 🧠 重新设计记忆系统 — 代码更少、更可靠。欢迎参与 [讨论](https://github.com/ZhengJiandan/evolvebot/discussions/566)！
-- **2026-02-11** ✨ 优化 CLI 体验并新增 MiniMax 支持！
-- **2026-02-10** 🎉 发布 v0.1.3.post6！查看更新 [说明](https://github.com/ZhengJiandan/evolvebot/releases/tag/v0.1.3.post6) 与 [路线图](https://github.com/ZhengJiandan/evolvebot/discussions/431)。
-- **2026-02-09** 💬 新增 Slack、Email 与 QQ 支持 — evolvebot 现已覆盖多种聊天平台！
-- **2026-02-08** 🔧 Provider 重构—新增 LLM Provider 仅需 2 步！详见 [这里](#providers)。
-- **2026-02-07** 🚀 发布 v0.1.3.post5，支持 Qwen 并带来多项改进！详见 [这里](https://github.com/ZhengJiandan/evolvebot/releases/tag/v0.1.3.post5)。
-- **2026-02-06** ✨ 新增 Moonshot/Kimi Provider、Discord 集成，并加强安全加固！
-- **2026-02-05** ✨ 新增飞书渠道、DeepSeek Provider，并增强定时任务支持！
-- **2026-02-04** 🚀 发布 v0.1.3.post4，支持多 Provider 与 Docker！详见更新 [说明](https://github.com/ZhengJiandan/evolvebot/releases/tag/v0.1.3.post4) 与 [路线图](https://github.com/ZhengJiandan/evolvebot/discussions/431)。
-- **2026-02-03** ⚡ 集成 vLLM，支持本地 LLM，并改进自然语言任务调度！
-- **2026-02-02** 🎉 evolvebot 正式发布！欢迎体验 🐈 evolvebot！
-
 ## 核心优势
 
 - **超轻量**：核心约 4k 行，维护与上手成本更低。
@@ -75,35 +42,6 @@
 - **快速迭代**：体积小、启动快、资源占用低。
 - **易于运行**：一键初始化，默认配置开箱即用。
 - **AI Universe 网络**：按需协作，促进智能体持续学习与进化。
-
-## 🏗️ 架构
-
-<p align="center">
-  <img src="evolvebot_arch.png" alt="evolvebot architecture" width="800">
-</p>
-
-## ✨ 功能特性
-
-<table align="center">
-  <tr align="center">
-    <th><p align="center">📈 7x24 实时市场分析</p></th>
-    <th><p align="center">🚀 全栈软件工程师</p></th>
-    <th><p align="center">📅 智能日程管理</p></th>
-    <th><p align="center">📚 个人知识助理</p></th>
-  </tr>
-  <tr>
-    <td align="center"><p align="center"><img src="case/search.gif" width="180" height="400"></p></td>
-    <td align="center"><p align="center"><img src="case/code.gif" width="180" height="400"></p></td>
-    <td align="center"><p align="center"><img src="case/scedule.gif" width="180" height="400"></p></td>
-    <td align="center"><p align="center"><img src="case/memory.gif" width="180" height="400"></p></td>
-  </tr>
-  <tr>
-    <td align="center">发现 • 洞察 • 趋势</td>
-    <td align="center">开发 • 部署 • 扩展</td>
-    <td align="center">计划 • 自动化 • 组织</td>
-    <td align="center">学习 • 记忆 • 推理</td>
-  </tr>
-</table>
 
 ## 📦 安装
 
