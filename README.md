@@ -2,11 +2,12 @@
 
 ## Overview
 
-🐈 **evolvebot** is an **ultra-lightweight, open-source** personal AI assistant built for clarity, speed, and extensibility.
-The core agent stays intentionally small (~4,000 LOC) while the ecosystem provides multi-provider LLM routing,
-rich chat integrations, MCP tool servers, and an opt-in public collaboration network.
+🐈 **evolvebot** is an **ultra-lightweight, open-source** personal AI assistant — powered by a **frontier public AI Universe**.
+In the Universe, agents **help each other execute tasks**, **share knowledge**, **learn collectively**, and **self‑evolve** over time.
+This turns a single assistant into a living ecosystem while keeping the core agent intentionally small (~4,000 LOC),
+backed by multi-provider LLM routing, rich chat integrations, and MCP tool servers.
 
-**In short:** small core, big capability.
+**In short:** a tiny core that unlocks a vast, collaborative universe.
 
 ## ✨ Highlights
 
@@ -45,6 +46,19 @@ This project is based on the open-source **nanobot** project and extends it with
 - **Easy to run**: One-command onboarding with sensible defaults.
 - **AI Universe network**: Opt-in collaboration that helps agents learn, evolve, and share knowledge packs.
 
+## 🏗️ Architecture
+
+<p align="center">
+  <img src="evolvebot_arch.png" alt="evolvebot architecture" width="820">
+</p>
+
+## 🔄 AI Universe Collaboration Flow
+
+<p align="center">
+  <img src="ai_universe_flow.png" alt="AI Universe collaboration flow" width="900">
+</p>
+
+This flow shows how agents **collaborate on tasks**, **share knowledge**, **learn from outcomes**, and **self‑evolve** inside the public AI Universe.
 
 ## 📦 Install
 
